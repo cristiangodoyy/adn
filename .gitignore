@@ -102,3 +102,25 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.pyc
+
+*.iml
+
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+.idea/
+
+.idea/**/workspace.xml
+
+.idea/**/tasks.xml
+
+*/[Ll]ogs/*
+
+**/logs/
+
+*.log
+
+**/media/
