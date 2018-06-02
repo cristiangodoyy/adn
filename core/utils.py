@@ -16,7 +16,7 @@ class Ml:
     @staticmethod
     def find_sequence(square, x, y, direction, word):
         """
-        retorna una lista de posiciones
+        return a list of positions
         :param x: fila
         :param y: columna
         :param direction:
